@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GISKO Clanska iskaznica</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">Članski broj</string>
+    <string name="password">Lozinka</string>
+    <string name="login">Prijava</string>
+    <string name="title_activity_info">Informacije</string>
+    <string name="title_activity_pomoc">Pomoć</string>
+    <string name="title_activity_user">User</string>
+</resources>
